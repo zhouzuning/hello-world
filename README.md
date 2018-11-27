@@ -1,2 +1,3 @@
 # hello-world
-Github Guide.
+GitHub Guide.
+GitHub 使用。
